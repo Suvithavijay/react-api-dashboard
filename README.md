@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Suvitha
 
 I'm a Programmer/Solutions Architect with over 14 years of experience building scalable, API-driven, and cloud-native systems for enterprise organizations. I specialize in aligning technical solutions with business strategy—delivering real impact across industries like insurance and financial services.
+=======
 
 ---
 
@@ -17,6 +18,7 @@ I'm a Programmer/Solutions Architect with over 14 years of experience building s
 **Languages**: C#, Java  
 **Architecture**: Event-Driven Design, Microservices  
 **Tools**: GitHub Actions, Terraform, Bruno, Postman, Docker, Kubernetes
+=======
 
 ---
 
@@ -45,6 +47,8 @@ Here are a few of the projects I’ve been working on or exploring:
 - 💼 [LinkedIn](www.linkedin.com/in/suvitha-vijayarajan)
 - 🌐 Portfolio: (coming soon)
 - ✉️ Email: suvithavijay@gmail.com
+=======
+
 
 ---
 
