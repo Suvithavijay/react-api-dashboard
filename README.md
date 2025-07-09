@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Suvitha
 
-I'm a Solutions Architect and Cloud Consultant with over 14 years of experience building scalable, API-driven, and cloud-native systems for enterprise organizations. I specialize in aligning technical solutions with business strategy—delivering real impact across industries like insurance and financial services.
+I'm a Programmer/Solutions Architect with over 14 years of experience building scalable, API-driven, and cloud-native systems for enterprise organizations. I specialize in aligning technical solutions with business strategy—delivering real impact across industries like insurance and financial services.
+=======
 
 ---
 
@@ -13,10 +14,11 @@ I'm a Solutions Architect and Cloud Consultant with over 14 years of experience 
 ---
 
 ## 🛠️ Tech Stack
-**Cloud**: GCP (Professional Cloud Architect), AWS (basic), Firebase  
-**Languages**: JavaScript, Python, Java  
-**Architecture**: TOGAF (in progress), Event-Driven Design, Microservices  
-**Tools**: GitHub Actions, Terraform, Apigee, Postman, Docker, Kubernetes
+**Cloud**: GCP (Associate Cloud Engineer) 
+**Languages**: C#, Java  
+**Architecture**: Event-Driven Design, Microservices  
+**Tools**: GitHub Actions, Terraform, Bruno, Postman, Docker, Kubernetes
+=======
 
 ---
 
@@ -42,9 +44,11 @@ Here are a few of the projects I’ve been working on or exploring:
 ---
 
 ## 📫 Get in Touch
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
+- 💼 [LinkedIn](www.linkedin.com/in/suvitha-vijayarajan)
 - 🌐 Portfolio: (coming soon)
-- ✉️ Email: YOUR_EMAIL@domain.com
+- ✉️ Email: suvithavijay@gmail.com
+=======
+
 
 ---
 
